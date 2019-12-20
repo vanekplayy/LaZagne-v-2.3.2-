@@ -14,3 +14,7 @@ run with the -v option
 if you want the passwords to be saved in a text file in the same folder, run the same file with the -oN, -oA, -oJ, -v option
 
 ![lol](https://github.com/vanekplayy/pictures/raw/master/lazagne/lzgnoALL.png)
+
+results:
+
+![lol](https://github.com/vanekplayy/pictures/raw/master/lazagne/vpapke.png)
