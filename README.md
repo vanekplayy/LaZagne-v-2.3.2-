@@ -5,7 +5,7 @@ someone else's computer`
 ***
 just go to the directory where lazagne.exe is located (say via cmd)
 ***
-![Image alt](https://github.com/{vanekplayy}/{pictures}/raw/{master}/{lazagne}/cd.png)
+![lol](https://github.com/vanekplayy/pictures/raw/master/lazagne/cd.png)
 ***
 run with the -v option
 ***
