@@ -1,2 +1,2 @@
-# execut4ble
+# exec
 search interesting soft
